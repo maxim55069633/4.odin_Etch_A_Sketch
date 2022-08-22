@@ -1,0 +1,50 @@
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    display: flex;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: stretch; */
+    height: 90vh;
+    width: 90vh;
+    flex:1 0 0;
+
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* align-items: stretch; */
+    flex: 1 0 0;
+}
+
+.unit{
+    flex:1 0 0;
+
+    border: 1px solid black;
+}
+
+
+/* This is the single color used for the version 1.0   
+.newColor{
+    background-color:#8d9c0b;
+} */
+
+
+
+.instruction{
+
+    padding: 30px;
+    font-size: 1.5em;
+    flex:1 0 0;
+}
+
+.instruction button{
+    padding: 10px;
+}
