@@ -1,5 +1,12 @@
 # odin_Etch-A-Sketch
 
+update:
+I found a solution that can accomplish the darken the path everytime the mouse passes. Impressive!
+code: https://github.com/andrewjh271/etch-a-sketch
+live:https://andrewjh271.github.io/etch-a-sketch/
+
+---
+
 This project helped me to hone my DOM manipulation skills. I encountered many interesting challenges:
 
 1. how to make the divs appear as a grid in a fixed size of square dynamically.
