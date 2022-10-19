@@ -44,6 +44,8 @@ body{
     font-size: 1.5em;
     flex:1 0 0;
 }
+/* 1. Make the divs appear as a grid in an equal amount of size dynamically.
+Flex saves me. It can grow or shrink dynamically no matter what number I enter. */
 
 .instruction button{
     padding: 10px;

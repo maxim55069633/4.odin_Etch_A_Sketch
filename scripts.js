@@ -5,7 +5,7 @@ function changeUnitColor(e){
 
     // version 1.1 hsl can generate 10 random color. However, 
     // The first color should be its original color instead of white. So I decided to start from 80 in colorlightness.
-    // Everytime a uesr clicks, it decreases 8 in colorlightness.
+    // Everytime a uesr move its mouse over a new area, it decreases 8 in colorlightness.
 
     //I also found a new method color-mix(). Unfortunately, most major browsers don't support it.
 
